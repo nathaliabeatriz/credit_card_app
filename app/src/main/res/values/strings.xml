@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Credit Card</string>
+    <string name="nome">DIGITE SEU NOME</string>
+    <string name="numero_cartao">**** **** **** ****</string>
+    <string name="validade_field">MM/AA</string>
+    <string name="cvc_field">XXX</string>
+    <string name="validade">Validade</string>
+    <string name="cvc">CVC</string>
+
+</resources>
